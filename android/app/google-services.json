@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819926358029",
+    "project_id": "flutter-login-e347c",
+    "storage_bucket": "flutter-login-e347c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819926358029:android:732af0ae501271fb121d44",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819926358029-o6fsunur26rq3cluoj8dfkhgppbt79ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxsy-YkHm45NGGg_aFzNyyZHqh62K-w4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819926358029-o6fsunur26rq3cluoj8dfkhgppbt79ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
